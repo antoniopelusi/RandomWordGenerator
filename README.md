@@ -1,6 +1,8 @@
 # RandomWordGenerator :books:
 A random word generator app for Android
 
+![](https://img.shields.io/badge/Language-Java_8-orange)
+
 ---
 ### Installation:
 - Download the `RandomWordGenerator.apk`, on the android device
