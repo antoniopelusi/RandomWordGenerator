@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">random-word-generator</string>
+    <string name="random_words">Random words</string>
+</resources>
